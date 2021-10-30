@@ -1,5 +1,7 @@
 # IDB-Keyval
 
+> This is a fork of https://github.com/jakearchibald/idb-keyval with https://github.com/jakearchibald/idb-keyval/pull/138 published.
+
 [![npm](https://img.shields.io/npm/v/idb-keyval.svg)](https://www.npmjs.com/package/idb-keyval)
 
 This is a super-simple promise-based keyval store implemented with IndexedDB, originally based on [async-storage by Mozilla](https://github.com/mozilla-b2g/gaia/blob/master/shared/js/async_storage.js).
